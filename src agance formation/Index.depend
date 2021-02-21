@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1580400509 source:c:\users\acer\desktop\projct youssef  chouiref en c\youssef chouiref\header\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototype.h"
+	"Definition.h"
+
+1580400520 c:\users\acer\desktop\projct youssef  chouiref en c\youssef chouiref\header\prototype.h
+
+1580402879 c:\users\acer\desktop\projct youssef  chouiref en c\youssef chouiref\header\definition.h
+	"Global.h"
+
+1580400509 c:\users\acer\desktop\projct youssef  chouiref en c\youssef chouiref\header\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototype.h"
+	"Definition.h"
+
+1580402849 source:c:\users\acer\desktop\projct youssef  chouiref en c\youssef chouiref\main.c
+	"header/Global.h"
+

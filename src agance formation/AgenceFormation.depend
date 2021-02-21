@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1580400509 source:c:\users\acer\desktop\projct youssef  chouiref en c\youssef chouiref\header\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototype.h"
+	"Definition.h"
+
+1580759379 c:\users\acer\desktop\projct youssef  chouiref en c\youssef chouiref\header\prototype.h
+
+1580759500 c:\users\acer\desktop\projct youssef  chouiref en c\youssef chouiref\header\definition.h
+	"Global.h"
+
+1580400509 c:\users\acer\desktop\projct youssef  chouiref en c\youssef chouiref\header\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototype.h"
+	"Definition.h"
+
+1580733690 source:c:\users\acer\desktop\projct youssef  chouiref en c\youssef chouiref\main.c
+	"header/Global.h"
+
+1580404109 source:c:\users\acer\desktop\codeblocks\projct youssef  chouiref en c\youssef chouiref\header\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototype.h"
+	"Definition.h"
+
+1580762979 c:\users\acer\desktop\codeblocks\projct youssef  chouiref en c\youssef chouiref\header\prototype.h
+
+1580907017 c:\users\acer\desktop\codeblocks\projct youssef  chouiref en c\youssef chouiref\header\definition.h
+	"Global.h"
+
+1580404109 c:\users\acer\desktop\codeblocks\projct youssef  chouiref en c\youssef chouiref\header\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototype.h"
+	"Definition.h"
+
+1580737290 source:c:\users\acer\desktop\codeblocks\projct youssef  chouiref en c\youssef chouiref\main.c
+	"header/Global.h"
+
+1580400509 source:c:\users\acer\desktop\delet no copy\projct youssef  chouiref en c\youssef chouiref\header\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototype.h"
+	"Definition.h"
+
+1580759379 c:\users\acer\desktop\delet no copy\projct youssef  chouiref en c\youssef chouiref\header\prototype.h
+
+1613926540 c:\users\acer\desktop\delet no copy\projct youssef  chouiref en c\youssef chouiref\header\definition.h
+	"Global.h"
+
+1580400509 c:\users\acer\desktop\delet no copy\projct youssef  chouiref en c\youssef chouiref\header\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototype.h"
+	"Definition.h"
+
+1613926455 source:c:\users\acer\desktop\delet no copy\projct youssef  chouiref en c\youssef chouiref\main.c
+	"header/Global.h"
+
