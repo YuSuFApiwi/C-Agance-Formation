@@ -1,6 +1,4 @@
-# # Code Clé Administrateur est:    <i>AGFADMIN1972</i>
-
-
+﻿# # Code Clé Administrateur est:    <i>AGFADMIN1972</i>
 
 ![alter text](screen/loading.PNG)
 <hr>
